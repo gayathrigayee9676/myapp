@@ -1,2 +1,2 @@
-public class Sample{
+class Sample{
 }
